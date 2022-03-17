@@ -144,15 +144,15 @@ d_SNORD97 <- effect.size(6.8, 1.34, 4.09, 2.14)
 
 
 ## SNORA12
-pwr.t2n.test(n2=45, sig.level = 0.01, power=0.9,  d=d_RGS18) # n1 =4 
+pwr.t2n.test(n2=44, sig.level = 0.01, power=0.9,  d=d_RGS18) # n1 =4 
 
 ## SNORA12
-pwr.t2n.test(n2=45, sig.level = 0.05, power=0.8,  d=d_SNORA12) # n1 =14
-pwr.t2n.test(n2=45, sig.level = 0.05, power=0.9,  d=d_SNORA12) # n1 =21 
-pwr.t2n.test(n2=45, sig.level = 0.01, power=0.9,  d=d_SNORA12) # n1 =37 
+pwr.t2n.test(n2=44, sig.level = 0.05, power=0.8,  d=d_SNORA12) # n1 =14
+pwr.t2n.test(n2=44, sig.level = 0.05, power=0.9,  d=d_SNORA12) # n1 =21 
+pwr.t2n.test(n2=44, sig.level = 0.01, power=0.9,  d=d_SNORA12) # n1 =38 
 
 
 ## SNORD97
-pwr.t2n.test(n2=45, sig.level = 0.05, power=0.8,  d=d_SNORD97) # n1 =4
-pwr.t2n.test(n2=45, sig.level = 0.01, power=0.9,  d=d_SNORD97) # n1 =7
+pwr.t2n.test(n2=44, sig.level = 0.05, power=0.8,  d=d_SNORD97) # n1 =4
+pwr.t2n.test(n2=44, sig.level = 0.01, power=0.9,  d=d_SNORD97) # n1 =7
 
